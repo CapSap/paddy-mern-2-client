@@ -5,7 +5,7 @@ import Entry from "./components/Entry";
 
 const App = () => {
   return (
-    <div className="p-0 m-0">
+    <div>
       <h1>App</h1>
       <Entry />
     </div>
